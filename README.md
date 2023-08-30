@@ -1,6 +1,8 @@
 # renew
-This reposository is for renew
 
 renew is app to read and validate data of receit
 
-MIT Licence
+## License
+
+We take pride in offering Salt Software, licensed under the [MIT license](https://mit-license.org/). 
+
